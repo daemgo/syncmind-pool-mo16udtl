@@ -1,0 +1,29 @@
+{
+  "records": [
+    {
+      "id": 1,
+      "date": "2026-04-18",
+      "type": "拜访",
+      "content": "客户提出两个明确需求：1）基于钉钉AI表格构建销售管理系统；2）基于syncmind产品提供企业背调/客户档案分析能力，可能需要定制开发",
+      "attendees": [],
+      "actions": [
+        {
+          "action": "整理并输出销售管理模块的需求文档",
+          "owner": "方案",
+          "assignee": "",
+          "deadline": null,
+          "done": false,
+          "completedAt": null
+        },
+        {
+          "action": "评估企业背调/客户档案分析功能的实现方案和定制需求",
+          "owner": "方案",
+          "assignee": "",
+          "deadline": null,
+          "done": false,
+          "completedAt": null
+        }
+      ]
+    }
+  ]
+}
