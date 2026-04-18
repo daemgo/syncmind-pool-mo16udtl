@@ -1,0 +1,116 @@
+{
+  "companyName": "浙江缘巢家居科技有限公司",
+  "shortName": "缘巢家居",
+  "summary": "温州龙港跨境家居日用品工贸企业，以鲸叹号品牌为核心，通过1688/天猫/速卖通等平台拓展国内外贸易，拥有28项专利，员工规模约50人。",
+  "industry": "制造业",
+  "subIndustry": "家居日用品制造",
+  "scale": "小微企业（参保32-59人）",
+  "mainBusiness": "家居日用百货研产供销一体化，跨境电商+内贸B端双轨驱动",
+  "products": [
+    { "name": "母婴用品", "description": "婴儿护理、喂养相关日用品" },
+    { "name": "日用杂品", "description": "厨房、卫生间日用杂货" },
+    { "name": "家居用品", "description": "家居收纳、装饰类产品" },
+    { "name": "橡塑制品", "description": "日用橡塑配件" },
+    { "name": "文具箱包", "description": "办公文具、箱包产品" }
+  ],
+  "targetCustomers": ["跨境电商买家", "1688批发商", "天猫/淘宝零售消费者", "海外采购商"],
+  "businessModel": "工贸一体/OEM+跨境电商+内贸批发",
+  "rating": "B+",
+  "tags": ["跨境电商", "小微制造", "鲸叹号品牌", "多品类家居", "1688内贸", "科技型中小企业"],
+  "website": null,
+  "slogan": null,
+  "isListed": false,
+  "stockCode": null,
+  "revenueScale": "小规模（千万元量级以下，招聘规模推断为中小型）",
+  "registration": {
+    "registeredName": "浙江缘巢家居科技有限公司",
+    "registeredCapital": "1,000万(元)",
+    "paidCapital": "131万(元)",
+    "establishedDate": "2016-10-10",
+    "legalRepresentative": "沈丽君",
+    "businessStatus": "开业",
+    "shareholders": [
+      { "name": "上海橙行供应链有限公司", "share": "70%", "paidAmount": "91.7万/700万认缴" },
+      { "name": "缘巢品牌管理(杭州)有限公司", "share": "30%", "paidAmount": "未实缴" }
+    ],
+    "branchCount": 1,
+    "interpretation": "注册资本1,000万实缴仅131万（实缴率13.1%），股东上海橙行供应链持股70%处于控股地位，缘巢品牌管理（杭州）持股30%，实际控制人沈丽君通过多层持股架构掌控公司。2024年完成品牌更名和地址迁移，显示处于战略调整期。",
+    "organizationType": "家族创业型（实控人沈丽君控制10+关联企业），工贸一体小微制造企业",
+    "keyFindings": [
+      "实缴资本仅131万/注册资本1000万，资金实力与注册规模存在明显落差，扩张资金受限",
+      "股东含杭州供应链公司，管理层有品牌运营+供应链双重背景，具备电商基础",
+      "2025年新设温州缘巢家居用品有限公司（沈丽君100%持股），业务布局处于扩张分化阶段"
+    ]
+  },
+  "organization": {
+    "type": "家族创业型小微企业，老板一言堂扁平化管理",
+    "decisionChain": "老板沈丽君（执行董事兼总经理）→ 业务负责人（1688运营/外贸负责人）→ 执行层",
+    "keyPersons": [
+      { "name": "沈丽君", "title": "执行董事兼总经理（实控人）" },
+      { "name": "沈礼特", "title": "监事" }
+    ],
+    "salesStrategy": "以老板娘/老板为决策核心，采购金额小可直接拍板；金额大需评估ROI，重点用案例和降本数据打动；建议先打杭州运营团队（品牌管理公司所在地），通过他们影响温州总部决策"
+  },
+  "timing": {
+    "phase": "收缩调整期（基础已建，急需提效降本）",
+    "analysisBasis": [
+      "2024年激进扩张（招聘+425%），2025年突然收缩（招聘-67%），显示经营策略调整",
+      "2024年1月完成品牌更名+经营范围大幅扩充（从日化转向家居科技），战略方向仍在摸索",
+      "实缴资本偏低，现金流承压，数字化提效是降本刚需"
+    ],
+    "entryStrategy": "以电商运营效率提升（订单管理/库存管理）切入，用速赢案例建立信任后再扩展到生产管理",
+    "urgency": "中等，招聘收缩期通常伴随内部优化压力，是数字化方案介入的窗口期（3-6个月内）"
+  },
+  "hiring": {
+    "keySignals": [
+      "2024年招聘21人（同比+425%），2025年仅3-4个在招职位（同比-67%），招聘规模大幅收缩",
+      "岗位集中在电商运营（1688运营/天猫美工/国际站运营）、外贸业务员、工业设计，以营销+设计为主",
+      "薪资区间4.5-10K，温州6-8K为主、杭州可达9-11K，显示杭州侧重高端运营岗",
+      "参保人数32-59人，规模偏小但有一定弹性"
+    ]
+  },
+  "competition": {
+    "industryRank": null,
+    "marketShare": null,
+    "mainCompetitors": ["温州同类日用品工贸企业", "1688家居日用品商家"],
+    "knownClients": []
+  },
+  "riskAndPolicy": {
+    "legal": {
+      "lawsuitCount": 5,
+      "executedPerson": false,
+      "dishonestPerson": false,
+      "businessAnomalies": [],
+      "equityFreeze": false
+    },
+    "policy": {
+      "isSpecializedSME": false,
+      "smeLevel": "",
+      "isHighTech": false,
+      "digitalTransformation": false,
+      "esgGreen": false
+    }
+  },
+  "painPoints": [
+    { "area": "订单管理", "description": "1688+天猫+速卖通多平台订单分散靠人工/微信跟踪，跨平台汇总效率低、易错漏", "severity": "高" },
+    { "area": "库存管理", "description": "多仓库（温州/杭州/义乌）账实不符，爆款断货与呆滞并存，缺乏智能预警", "severity": "高" },
+    { "area": "生产管理", "description": "多品类小批量生产排产靠经验，插单频繁导致交付不稳定", "severity": "中" },
+    { "area": "成本核算", "description": "多SKU（家居+母婴+文具等混产）成本算不清，1688报价靠经验，利润黑箱", "severity": "中" },
+    { "area": "数据决策", "description": "老板掌控10+公司精力分散，缺乏经营数据看板，决策靠感觉", "severity": "中" }
+  ],
+  "opportunities": [
+    { "area": "订单管理/OMS", "description": "1688+国际站+国内电商多平台订单统一接入，自动归集、跟单提醒、交期承诺管理", "likelihood": "高" },
+    { "area": "库存管理/WMS", "description": "多仓库库存实时同步，智能补货建议，呆滞料预警，与电商平台库存打通", "likelihood": "高" },
+    { "area": "生产管理/MES轻量版", "description": "排产可视化，订单进度实时看板，插单影响模拟，减少交期纠纷", "likelihood": "中" }
+  ],
+  "analysisPath": "B+",
+  "confidence": 0.75,
+  "metadata": {
+    "createdAt": "2026-04-18",
+    "updatedAt": "2026-04-18",
+    "createdBy": "AI",
+    "version": "1.0",
+    "sources": ["web_search", "web_fetch"],
+    "confidence": 0.75
+  }
+}
