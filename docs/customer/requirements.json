@@ -1,0 +1,38 @@
+{
+  "id": 1,
+  "companyName": "浙江缘巢家居科技有限公司",
+  "companyShortName": "缘巢家居",
+  "version": "1.0",
+  "createdAt": "2026-04-18",
+  "updatedAt": "2026-04-18",
+  "requirements": [
+    {
+      "id": 1,
+      "category": "销售管理",
+      "title": "销售管理模块",
+      "description": "基于钉钉AI表格实现销售管理功能，服务客户自己的销售团队",
+      "priority": "高",
+      "status": "confirmed",
+      "details": {
+        "platform": "钉钉AI表格",
+        "scope": "客户自有销售团队管理",
+        "features": []
+      }
+    },
+    {
+      "id": 2,
+      "category": "企业背调/客户分析",
+      "title": "企业背调定制",
+      "description": "基于syncmind产品能力，为客户提供企业背调/客户档案分析定制服务",
+      "priority": "高",
+      "status": "confirmed",
+      "details": {
+        "platform": "syncmind",
+        "scope": "企业名称查询 + 企业背调 + 客户档案分析",
+        "features": []
+      }
+    }
+  ],
+  "notes": "需求由客户明确提出，后续补充更多细节",
+  "nextSteps": []
+}
